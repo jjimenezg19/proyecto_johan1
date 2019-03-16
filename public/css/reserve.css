@@ -1,0 +1,52 @@
+
+
+
+.reserve_books{
+    margin-top: 14px;
+}
+
+.centrated{
+    margin: auto;
+    width: 900px;
+}
+
+.reserve_top, .reserva_bottom {
+    display: table;
+    
+}
+
+.reserve_top{
+    margin-bottom: 15px;
+}
+
+.reserve_block{
+    display: table-cell;
+}
+
+.reserve_contain{
+    background: hsl(40, 94%, 55%);
+    margin: 28px;
+}
+
+img{
+   width: 100%;
+  
+}
+
+
+.reserve_img{
+    border: 8px solid #d8d8d7;
+}
+.reserve_descrip{
+ margin: 32px;
+}
+
+.btn_reserve {
+    display: flex;
+    margin-top: 52px;
+   
+}
+
+main{
+    padding-bottom: 50px;
+}

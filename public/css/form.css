@@ -1,0 +1,111 @@
+.title2{
+    margin-top: 50px;
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 50px;
+    color:hsl(250, 94%, 13%);
+    
+}
+
+
+.centrated{
+    margin: 0 auto;
+    width: 900px;
+    display: flow-root;
+}
+
+.form{
+ margin-top: 6%;
+}
+
+.contacto{
+    display: flow-root;
+}
+
+.form_left{
+    width: 45%;
+    float: left;
+    display: flow-root;
+}
+
+.form_left label{
+    display: inline-block;
+    width: 80px;
+    height: 10px;
+    color: hsl(250, 94%, 13%);
+    font-size: 20px;
+    font-family: robot;
+}
+
+.form_right{
+    width: 24%;
+    float: right;
+    display: flow-root;
+}
+
+.form_right button{
+width: 100%;
+margin-top: 15px;
+}
+
+.form_left input{
+    width: 200px;
+    height: 22px;
+    margin: 2%;
+    background: hsl(40, 94%, 55%);  
+    border-radius: 10px;
+    border: none;
+}
+
+.form_left  input:hover{
+    background: hsl(40, 100%, 70%);  
+}
+
+.register_top{
+    display: flow-root; 
+}
+
+.register_img{
+    border: 1px solid hsl(250, 94%, 13%);
+    width: 210px;
+    height: 210px;
+    background: hsl(40, 100%, 70%);  
+
+}
+
+
+.register_img:hover{
+    background: hsl(40, 94%, 55%);
+}
+
+
+.buttons{
+    background-color: white;
+    float: right;
+    margin: -1% auto;
+    border-radius: 10px;
+    border: 2px solid #0984e3;
+    color: hsl(250, 94%, 13%);
+    font-size: 19px;
+    padding: 5px;
+    width: 125px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+.buttons:hover{
+    background-color: #0984e3; 
+    color: white;
+}
+
+.btn_register{
+    margin: 35% 40%;
+}
+
+.btn_div{
+    float: right;
+    margin-right: -121%;
+    margin-top: 2%;
+}
+

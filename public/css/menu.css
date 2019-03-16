@@ -1,0 +1,32 @@
+/*menu*/
+body{
+    background: hsl(0, 0%, 99%);
+    font-family: 'roboto', sans-serif;
+    font-size: 15px;
+}
+
+.header{
+    background: #0984e3;
+    padding: 1%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+.header_menu{
+    text-align: right;
+}
+
+.header_menu a {
+    color: #fff;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.header_menu > a:hover{
+    border-color:  hsl(40, 97%, 46%);
+    color: hsl(250, 94%, 13%);
+    font-weight: bold;
+    font-size: 15px;
+}

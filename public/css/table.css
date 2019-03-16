@@ -1,0 +1,32 @@
+
+.table{
+    margin-top: 3%;
+    width: 100%;
+    table-layout: fixed;
+    background-color: #fff ;  
+}
+
+.centrated{
+    margin: 1% auto;
+    width: 1080px;
+}
+
+.table tr td{
+    border: 2px solid hsl(250, 94%, 13%);
+    padding: 10px;
+    width: 100px;
+    color: hsl(250, 94%, 13%);
+}
+
+.table > thead{
+    background: hsl(40, 94%, 55%);
+}
+
+
+.table tr > td:hover{
+    background: hsl(40, 100%, 70%);
+}
+
+main{
+    padding-bottom: 30px;
+}
